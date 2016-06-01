@@ -1,0 +1,6 @@
+Number of games: 24
+Is there a game from the given year: True
+Is there a game from the given year: False
+Latest game: Diablo III
+Number of games from that genre: 5
+Number of Diablo III : 4
